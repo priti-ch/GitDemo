@@ -25,5 +25,7 @@ public class SumValidation {
         int sum1;
         sum1=10+20;
 
+        //sum added
+
     }
 }

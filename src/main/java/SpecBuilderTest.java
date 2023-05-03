@@ -47,5 +47,8 @@ public class SpecBuilderTest {
 
         String responseString = response.asString();
         System.out.println(responseString);
+
+
+        //comment to verify git
     }
 }

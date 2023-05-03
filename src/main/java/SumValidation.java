@@ -21,5 +21,9 @@ public class SumValidation {
         int totalAmount= js.getInt("dashboard.purchaseAmount");
         //System.out.println(totalAmount);
         Assert.assertEquals(sum,totalAmount);
+
+        int sum1;
+        sum1=10+20;
+
     }
 }

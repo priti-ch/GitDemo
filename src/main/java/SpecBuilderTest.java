@@ -51,5 +51,9 @@ public class SpecBuilderTest {
 
         //comment to verify git
         //add something to verify again
+
+        //add comment in dev branch to reflect
+
+        //add one more comment
     }
 }
